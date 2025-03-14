@@ -189,7 +189,7 @@ Extrapolate the relevant industry that this business idea should focus on and pe
 
 #### 6. Tool - IdentifyTargetAudience
 
-This tool is used to estimate the market size for a business idea in terms of total addressable market. Here is the prompt for the tool:
+This tool is used to recommend the best target audience for the business idea. Here is the prompt for the tool:
 
 ```
 ## ROLE
