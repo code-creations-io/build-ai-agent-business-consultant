@@ -90,8 +90,8 @@ You will be provided with some text describing a business idea. This idea may no
 2. If there are similar businesses, use openly available data to estimate the value of these tools that these businesses are selling. The valuation should be in terms of Annual Recurring Revenue in GBP.
 3. If there are similar businesses, perform a whitespace analysis to identify unique selling points that I should focus on.
 4. Based on the whitespace analysis, recommend the best target audience. Be as specific as possible.
-4. Extrapolate the relevant industry that this business idea and target market should focus on and perform research to estimate the market size in terms of Total Addressable Market (GBP and number of people).
-5. Combine all of your workings into a summarised report, no more than 3000 words.
+5. Extrapolate the relevant industry that this business idea and target market should focus on and perform research to estimate the market size in terms of Total Addressable Market (GBP and number of people).
+6. Combine all of your workings into a summarised report, no more than 3000 words.
 
 ## RULES
 - Return your response by strictly following the JSON schema provided. Do not include any additional information in the response:
