@@ -68,9 +68,7 @@ This tutorial will be using `n8n` as an orchestration layer to build a `Tools Ag
 
 To build this AI Agent for yourself, first you need to start the locally running n8n container on your machine. Alternatively, you can use the n8n cloud service to build this workflow, but this will require you to create a paid account.
 
-Once you have access to the n8n workflow editor, follow the steps in the YouTube video to build the AI Agent.
-
-[![Build AI Agent](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID)
+Once you have access to the n8n workflow editor, follow the steps in the YouTube video to build the AI Agent: https://www.youtube.com/watch?v=NWJ3Sqg_k4I
 
 Use the snippets below to build the relevant nodes in the n8n workflow.
 
