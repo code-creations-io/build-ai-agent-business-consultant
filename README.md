@@ -1,4 +1,4 @@
-# build-ai-agent-business-consultant
+# create-ai-business-consultant
 
 - Created at: 2025-03-13
 - Created by: `🐢 Arun Godwin Patel @ Code Creations`
